@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @le-anne
-- 👀 I’m interested in ...
+- 👀 I’m interested in ... too many things.
 - 🌱 I’m currently learning ... everything! I want to just learn until I find something I really like or want to do!
-- 💞️ I’m looking to collaborate on ... learning. I think I might need a mentor or a little extra help before collaborating.
+- 💞️ I’m looking to ... grow my skills and learn how to collaborate with others!
 - 📫 How to reach me ... leannevictoriaharris@gmail.com
 
 <!---
