@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @le-anne
-- 👀 I’m interested in ... too many things.
-- 🌱 I’m currently learning ... everything! I want to just learn until I find something I really like or want to do!
-- 💞️ I’m looking to ... grow my skills and learn how to collaborate with others!
+- 👋 Hi, I’m @le-anne, you can call me Lele or Leanne. :) 
+- 👀 I’m interested in ... spending my day learning front-end web development and tinkering around with CodePen and GitHub.
+- 🌱 I’m currently learning ... front-end web development! Send any beginner-friendly materials my way!
+- 💞️ I’m looking to ... grow my skills and learn how to collaborate with others
 - 📫 How to reach me ... leannevictoriaharris@gmail.com
 
 <!---
