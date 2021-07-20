@@ -1,10 +1,10 @@
- 👋&nbsp; Hi, I’m @le-anne, you can call me Lele or Leanne. :) 
+ 👋&nbsp; Hi, I’m @le-anne, you can call me Lele or Leanne. 
 
- 👀  &nbsp;&nbsp;👀  &nbsp;&nbsp;👀 &nbsp; I’m interested in ... spending my day learning front-end web development and tinkering around with CodePen and GitHub.
+ 👀  &nbsp;&nbsp;👀  &nbsp;&nbsp;👀 &nbsp; I’m interested in ... spending my day learning full stack web development and tinkering around with CodePen and GitHub.
 
- 🌱&nbsp; I’m currently learning ... front-end web development! Send any beginner-friendly materials my way!
-
- 💞️ &nbsp;I’m looking to ... grow my skills and learn how to collaborate with others in the techsphere. 
+ 🌱&nbsp; I’m currently learning ... React, Algorithms, Data Structures! 
+ 
+ 💞️ &nbsp;I’m looking to ... learn how to collaborate with others in the techsphere before jumping into my job search!
 
  📫&nbsp; How to reach me ... leannevictoriaharris@gmail.com or Twitter @twelvethirtyone
 
