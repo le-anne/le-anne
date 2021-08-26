@@ -1,6 +1,6 @@
  # 👋&nbsp; Hi, I’m Leanne.
 
-👀 **I’m nterested in ...**
+👀 **I’m interested in ...**
 spending my day learning software development.
 
  🌱 **I’m currently learning ...** 
