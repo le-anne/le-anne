@@ -4,7 +4,7 @@
 spending my day learning software development.
 
  🌱 **I’m currently learning ...** 
-everything in the data realm!
+everything in the data realm! Currently committed to 100 Days of Code | Python.
  
  💞️ **I’m looking to ...** 
 continue my job search for a data or software engineering role. 
