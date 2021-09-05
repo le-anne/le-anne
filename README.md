@@ -1,15 +1,8 @@
- # 👋&nbsp; Hi, I’m Leanne.
+ # Hi, I’m Leanne.
 
-👀 **I’m interested in ...**
-spending my day learning software development.
+here's my github.
 
- 🌱 **I’m currently learning ...** 
-everything in the data realm! Currently committed to 100 Days of Code | Python.
- 
- 💞️ **I’m looking to ...** 
-continue my job search for a data or software engineering role. 
-
- 📫 **How to reach me ...** 
+ ###  📫  Contact
  leannevictoriaharris@gmail.com 
 
 <!---
