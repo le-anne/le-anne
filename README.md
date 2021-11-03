@@ -8,6 +8,22 @@ I'm a Software Engineer, specializing and constantly learning full stack enginee
 I'm recently completed the Fall 2021 European Cohort of [Front-End Foxes](https://github.com/le-anne/fef-portfolio) and have been engaging in [66 Days of Data](https://github.com/le-anne/66DaysofData).
 
 
+### Highlighted Code and Projects
+
+[Diary App Frontend](https://github.com/le-anne/diary-frontend) / [Backend](https://github.com/le-anne/diary-backend) (frontend in progress) ![react](https://img.icons8.com/office/16/000000/react.png) 
+![node](https://img.icons8.com/fluency/16/000000/node-js.png) ![mongodb](https://img.icons8.com/color/16/000000/mongodb.png)
+
+[Untitled 'Candy Crush' Game](https://github.com/le-anne/candy-crush) (in progress) ![react](https://img.icons8.com/office/16/000000/react.png)
+
+[Doggo Cave](https://github.com/le-anne/fef-dog) ![vue](https://img.icons8.com/color/16/000000/vue-js.png)
+
+[Typing Game](https://github.com/le-anne/fef-typing-game) ![javascript](https://img.icons8.com/color/16/000000/javascript--v1.png)
+
+[To-Do List App](https://github.com/le-anne/fef-to-do) ![javascript](https://img.icons8.com/color/16/000000/javascript--v1.png)
+
+[100 Days of Python Projects](https://github.com/le-anne/100DaysofPython) (in progress) ![python](https://img.icons8.com/color/16/000000/python--v1.png) 
+
+---
 
  ###  📫  Contact
  ![email](https://img.icons8.com/cotton/30/000000/paper-plane--v3.png) leannevictoriaharris@gmail.com 
