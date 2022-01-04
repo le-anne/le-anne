@@ -3,9 +3,11 @@
  ![golden gate bridge](https://img.icons8.com/external-vitaliy-gorbachev-lineal-color-vitaly-gorbachev/50/000000/external-golden-gate-bridge-wonder-of-the-world-vitaliy-gorbachev-lineal-color-vitaly-gorbachev.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![teal computer](https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/50/000000/external-code-coding-kiranshastry-lineal-color-kiranshastry-1.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![cartoon image of a woman](https://img.icons8.com/bubbles/50/000000/long-brunette-hair-lady.png)
 
 
-I'm a Software Engineer, specializing in frontend development. [View my portfolio here!](www.leanne.studio.com)
 
-I am currently a mentor at [Front-End Foxes](https://github.com/le-anne/fef-portfolio), a bootcamp for women, by women. 
+I'm a Software Engineer, specializing in frontend development. [View my portfolio here!](www.leanne.studio.com) 
+
+I am also currently a mentor at [Front-End Foxes](https://github.com/le-anne/fef-portfolio), a bootcamp for women, by women.
+
 ---
 
 ### Highlighted Code and Projects
