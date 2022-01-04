@@ -5,9 +5,7 @@
 
 I'm a Software Engineer, specializing in frontend development. [View my portfolio here!](www.leanne.studio.com)
 
-I'm recently completed the Fall 2021 European Cohort of [Front-End Foxes](https://github.com/le-anne/fef-portfolio) and have been engaging in [66 Days of Data](https://github.com/le-anne/66DaysofData).
-
-
+I am currently a mentor at [Front-End Foxes](https://github.com/le-anne/fef-portfolio), a bootcamp for women, by women. 
 ---
 
 ### Highlighted Code and Projects
