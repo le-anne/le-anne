@@ -8,6 +8,8 @@ I'm a Software Engineer, specializing in frontend development. [View my portfoli
 
 I am also currently a mentor at [Front-End Foxes](https://github.com/le-anne/fef-portfolio), a bootcamp for women, by women.
 
+I also contract at various companies in the United States. If you would like to hire me, please contact me at: dev@leanne.studio
+
 ---
 
 ### Highlighted Code and Projects
@@ -21,14 +23,12 @@ I am also currently a mentor at [Front-End Foxes](https://github.com/le-anne/fef
 
 [Typing Game](https://github.com/le-anne/fef-typing-game) ![javascript](https://img.icons8.com/color/16/000000/javascript--v1.png)
 
-[To-Do List App](https://github.com/le-anne/fef-to-do) ![javascript](https://img.icons8.com/color/16/000000/javascript--v1.png)
-
 [100 Days of Python Projects](https://github.com/le-anne/100DaysofPython) (in progress) ![python](https://img.icons8.com/color/16/000000/python--v1.png) 
 
 ---
 
  ###  📫  Contact
- ![email](https://img.icons8.com/cotton/30/000000/paper-plane--v3.png) leannevictoriaharris@gmail.com 
+ ![email](https://img.icons8.com/cotton/30/000000/paper-plane--v3.png) dev@leanne.studio
  
  ![twitter](https://img.icons8.com/office/30/000000/twitter.png) [leannedotcom](https://twitter.com/leannedotcom)
 
