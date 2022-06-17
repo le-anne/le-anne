@@ -1,7 +1,7 @@
  ![golden gate bridge](https://img.icons8.com/external-vitaliy-gorbachev-lineal-color-vitaly-gorbachev/50/000000/external-golden-gate-bridge-wonder-of-the-world-vitaliy-gorbachev-lineal-color-vitaly-gorbachev.png) Hi, I’m Leanne  
  
  
-I'm a Software Engineer, specializing in the JavaScript ecosystem, frontend development, and testing. [View my portfolio here!](www.leanne.studio.com) 
+I'm a Software Engineer, specializing in the JavaScript ecosystem, frontend development, and testing. [View my portfolio here!](www.leanne.studio) 
 
 I am also currently a mentor at [Front-End Foxes](https://github.com/le-anne/fef-portfolio), a bootcamp for women, by women.
 
