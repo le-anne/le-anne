@@ -1,15 +1,18 @@
  ![golden gate bridge](https://img.icons8.com/external-vitaliy-gorbachev-lineal-color-vitaly-gorbachev/50/000000/external-golden-gate-bridge-wonder-of-the-world-vitaliy-gorbachev-lineal-color-vitaly-gorbachev.png) Hi, I’m Leanne  
  
  
-I'm a Software Engineer, specializing in the JavaScript ecosystem, frontend development, and testing. [View my portfolio here!](www.leanne.studio) 
+I'm a Software Engineer, specializing in the JavaScript ecosystem, frontend development, and testing. [View my portfolio here!](https://leanne.studio/)
 
-I am also currently a mentor at [Front-End Foxes](https://github.com/le-anne/fef-portfolio), a bootcamp for women, by women.
+I am also currently a mentor at [Front-End Foxes](https://www.vuevixens.org/), a bootcamp for women, by women.
 
 I also contract at various companies in the United States. If you would like to hire me, please contact me at: dev@leanne.studio
 
 ---
 
 ### Highlighted Code and Projects
+
+[Nicaragua News en English](https://github.com/le-anne/nicaraguanews) / [View website in progress](https://le-anne.github.io/nicaraguanews/) ![react](https://img.icons8.com/office/16/000000/react.png) 
+![node](https://img.icons8.com/fluency/16/000000/node-js.png) 
 
 [Diary App Frontend](https://github.com/le-anne/diary-frontend) / [Backend](https://github.com/le-anne/diary-backend) (frontend in progress) ![react](https://img.icons8.com/office/16/000000/react.png) 
 ![node](https://img.icons8.com/fluency/16/000000/node-js.png) ![mongodb](https://img.icons8.com/color/16/000000/mongodb.png)
