@@ -14,19 +14,21 @@ I also contract at various companies in the United States. If you would like to 
 
 ### Highlighted Code and Projects
 
-[Nicaragua News en English](https://github.com/le-anne/nicaraguanews) / [View website in progress](https://le-anne.github.io/nicaraguanews/) ![react](https://img.icons8.com/office/16/000000/react.png) 
-![node](https://img.icons8.com/fluency/16/000000/node-js.png) 
+[Sample Cypress Scripts](https://github.com/le-anne/sample-cypress-scripts)  ![cypress](https://api.iconify.design/vscode-icons/file-type-light-cypress.svg?width=20)
 
-[Diary App Frontend](https://github.com/le-anne/diary-frontend) / [Backend](https://github.com/le-anne/diary-backend) (frontend in progress) ![react](https://img.icons8.com/office/16/000000/react.png) 
-![node](https://img.icons8.com/fluency/16/000000/node-js.png) ![mongodb](https://img.icons8.com/color/16/000000/mongodb.png)
+[Nicaragua News en English](https://github.com/le-anne/nicaraguanews) / [View website in progress](https://le-anne.github.io/nicaraguanews/) ![react](https://img.icons8.com/office/20/000000/react.png) 
+![node](https://img.icons8.com/fluency/20/000000/node-js.png) 
 
-[Untitled 'Candy Crush' Game](https://github.com/le-anne/candy-crush) (in progress) ![react](https://img.icons8.com/office/16/000000/react.png)
+[Diary App Frontend](https://github.com/le-anne/diary-frontend) / [Backend](https://github.com/le-anne/diary-backend) (frontend in progress) ![react](https://img.icons8.com/office/20/000000/react.png) 
+![node](https://img.icons8.com/fluency/20/000000/node-js.png) ![mongodb](https://img.icons8.com/color/20/000000/mongodb.png)
 
-[Doggo Cave](https://github.com/le-anne/fef-dog) ![vue](https://img.icons8.com/color/16/000000/vue-js.png)
+[Untitled 'Candy Crush' Game](https://github.com/le-anne/candy-crush) (in progress) ![react](https://img.icons8.com/office/20/000000/react.png)
 
-[Typing Game](https://github.com/le-anne/fef-typing-game) ![javascript](https://img.icons8.com/color/16/000000/javascript--v1.png)
+[Doggo Cave](https://github.com/le-anne/fef-dog) ![vue](https://img.icons8.com/color/20/000000/vue-js.png)
 
-[100 Days of Python Projects](https://github.com/le-anne/100DaysofPython) (in progress) ![python](https://img.icons8.com/color/16/000000/python--v1.png) 
+[Typing Game](https://github.com/le-anne/fef-typing-game) ![javascript](https://img.icons8.com/color/20/000000/javascript--v1.png)
+
+[100 Days of Python Projects](https://github.com/le-anne/100DaysofPython) (in progress) ![python](https://img.icons8.com/color/20/000000/python--v1.png) 
 
 ---
 
