@@ -12,7 +12,8 @@ I've mentored at [Front-End Foxes](https://www.vuevixens.org/), a bootcamp for w
 
 ### Highlighted Code and Projects
 
-[ENS Project](https://github.com/le-anne/domains)  ![solidity](https://img.icons8.com/ios/25/solidity.png) ![react](https://img.icons8.com/office/20/000000/react.png)
+[LoveMinted](https://loveminted.us) ![solidity](https://img.icons8.com/ios/25/solidity.png) ![react](https://img.icons8.com/office/20/000000/react.png)
+
 
 [Sample Cypress Scripts](https://github.com/le-anne/sample-cypress-scripts)  ![cypress](https://api.iconify.design/vscode-icons/file-type-light-cypress.svg?width=20)
 
